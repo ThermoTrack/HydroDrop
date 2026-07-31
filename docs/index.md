@@ -16,4 +16,4 @@ HydroDrop is a QGIS plugin by **Jaco Bekker** for point-source water volume simu
 
 ## Support
 
-Report bugs and request features on [GitHub Issues](https://github.com/JacoBekker/HydroDrop/issues).
+Report bugs and request features on [GitHub Issues](https://github.com/ThermoTrack/HydroDrop/issues).

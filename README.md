@@ -6,8 +6,9 @@ HydroDrop is an open-source QGIS plugin for civil engineers, farmers, mine plann
 
 This is **not** a rainfall or river-flow model. It is a **gravity-only, point-source volume** simulation using [RichDEM](https://github.com/r-barnes/richdem) Fill-Spill-Merge (FSM).
 
-**Author:** [Jaco Bekker](https://github.com/JacoBekker)  
-**License:** [MIT](LICENSE)
+**Author:** Jaco Bekker ([ThermoTrack](https://github.com/ThermoTrack))  
+**License:** [MIT](LICENSE)  
+**Repository:** [github.com/ThermoTrack/HydroDrop](https://github.com/ThermoTrack/HydroDrop)
 
 ---
 

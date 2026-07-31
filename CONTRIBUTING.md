@@ -28,7 +28,7 @@ Thank you for your interest in contributing. HydroDrop is open source under the 
 
 ## Reporting issues
 
-Use [GitHub Issues](https://github.com/JacoBekker/HydroDrop/issues) and include:
+Use [GitHub Issues](https://github.com/ThermoTrack/HydroDrop/issues) and include:
 
 - QGIS version
 - Operating system
