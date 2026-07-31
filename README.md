@@ -18,6 +18,18 @@ This is **not** a rainfall or river-flow model. It is a **gravity-only, point-so
 
 ---
 
+## Screenshots
+
+**Pour dialog and depth result** — click the map, set volume (m³), run simulation:
+
+![HydroDrop pour dialog and blue depth shading on DEM](docs/images/pour-simulation-dialog.png)
+
+**DEM on map** — load a hillshade or DEM over your basemap, then pour:
+
+![DEM layer over topographic basemap in QGIS](docs/images/dem-on-map.png)
+
+---
+
 ## Features
 
 - Click anywhere on a DEM to pour water at a point

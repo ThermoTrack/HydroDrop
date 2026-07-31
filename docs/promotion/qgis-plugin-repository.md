@@ -67,6 +67,9 @@ water, dem, hydrology, flood, ponding, terrain, depression, volume, richdem
 - `richdem2` dependency clearly stated in About
 - README and tutorial linked from repository
 - Icon: `icons/waterdrop.svg`
+- **Screenshots for plugin page:** upload from `docs/images/`:
+  - `pour-simulation-dialog.png` — main UI + depth result
+  - `dem-on-map.png` — DEM on basemap context
 
 ---
 
