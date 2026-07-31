@@ -12,12 +12,13 @@ Ready-to-use copy for publishing and discovery. Repository: [ThermoTrack/HydroDr
 
 ## Checklist
 
+- [x] Promotion commit pushed to GitHub (`main`)
+- [x] Tag **v1.0.0** pushed — [create release + attach ZIP](github-release.md) (manual, ~2 min)
+- [ ] GitHub About: description + topics (see [github-release.md](github-release.md))
 - [ ] Submit ZIP to [plugins.qgis.org](https://plugins.qgis.org/publish/) (OSGeo ID required)
-- [ ] GitHub: add topics `qgis`, `qgis-plugin`, `dem`, `hydrology`, `flood`
-- [ ] GitHub: create release **v1.0.0** with screenshot
-- [ ] Post on r/QGIS (after plugin repo approval or with manual install link)
-- [ ] Email qgis-user list (optional)
-- [ ] Answer relevant Stack Exchange questions with link when helpful
+- [ ] Post on r/QGIS — copy in [reddit-qgis.md](reddit-qgis.md)
+- [ ] Email qgis-user list (optional) — [mailing-list.md](mailing-list.md)
+- [ ] Answer relevant Stack Exchange questions — [stack-exchange.md](stack-exchange.md)
 
 ## Build submission ZIP
 
