@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: HydroDrop
+message: "If you use HydroDrop, please cite it as below."
+type: software
+authors:
+  - given-names: Jaco
+    family-names: Bekker
+    email: bekker.jj@gmail.com
+repository-code: "https://github.com/ThermoTrack/HydroDrop"
+url: "https://github.com/ThermoTrack/HydroDrop"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-30
+keywords:
+  - QGIS
+  - DEM
+  - hydrology
+  - flood
+  - ponding
+  - RichDEM
+abstract: >-
+  QGIS plugin for point-source water volume simulation on digital elevation
+  models using RichDEM Fill-Spill-Merge depression overflow.

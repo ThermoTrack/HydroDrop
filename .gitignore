@@ -7,3 +7,5 @@ __pycache__/
 *.gpkg
 *.csv
 .DS_Store
+dist/
+*.zip

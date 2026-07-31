@@ -1,5 +1,9 @@
 # HydroDrop
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![QGIS](https://img.shields.io/badge/QGIS-3.28%2B%20%7C%204.x-green)](https://qgis.org)
+[![GitHub](https://img.shields.io/badge/GitHub-ThermoTrack%2FHydroDrop-24292f)](https://github.com/ThermoTrack/HydroDrop)
+
 **Drop a volume of water anywhere on a DEM and simulate where it accumulates and overflows.**
 
 HydroDrop is an open-source QGIS plugin for civil engineers, farmers, mine planners, and environmental consultants who need quick answers to questions like: *"If I pour 5,000 m³ here, where does it pond and where does it spill?"*
@@ -9,6 +13,8 @@ This is **not** a rainfall or river-flow model. It is a **gravity-only, point-so
 **Author:** Jaco Bekker ([ThermoTrack](https://github.com/ThermoTrack))  
 **License:** [MIT](LICENSE)  
 **Repository:** [github.com/ThermoTrack/HydroDrop](https://github.com/ThermoTrack/HydroDrop)
+
+> **Find & install:** Search **HydroDrop** in QGIS *Plugins → Manage and Install Plugins* after [plugins.qgis.org](https://plugins.qgis.org/publish/) approval — or [install from source](docs/installation.md) today.
 
 ---
 
@@ -66,6 +72,7 @@ Full walkthrough: [Tutorial](docs/tutorial.md)
 | [Tutorial](docs/tutorial.md) | Step-by-step first simulation |
 | [How it works](docs/how-it-works.md) | Physics, algorithm, interpreting results |
 | [Changelog](CHANGELOG.md) | Release history |
+| [Promotion kit](docs/promotion/README.md) | Announcements & plugin repo submission |
 
 ---
 
