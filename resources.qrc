@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/hydrodrop">
+    <file>icons/waterdrop.svg</file>
+  </qresource>
+</RCC>

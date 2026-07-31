@@ -1,0 +1,16 @@
+[general]
+name=HydroDrop
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+description=Drop a volume of water anywhere on a DEM and simulate where it accumulates and overflows.
+version=1.0.0
+author=Jaco Bekker
+email=hydrodrop@users.noreply.github.com
+about=Interactive point-source water volume fill with depression overflow using RichDEM Fill-Spill-Merge. Click a DEM, specify a volume in cubic metres, and watch water pond and spill.
+tracker=https://github.com/JacoBekker/HydroDrop/issues
+repository=https://github.com/JacoBekker/HydroDrop
+hasProcessingProvider=yes
+category=Raster
+icon=icons/waterdrop.svg
+experimental=False
+deprecated=False
